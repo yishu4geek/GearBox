@@ -29,11 +29,16 @@ from the data store. however, the action to filter the tutorials has not been im
 to time constraints)
 • Navigate to specific Tutorials
 • Navigate to add Tutorial page
+
+
 ![image](https://github.com/yishu4geek/GearBox/blob/master/app/imgage/1.png)
 
 Create new tutorial 
 
 ![image](https://github.com/yishu4geek/GearBox/blob/master/app/imgage/2.png)
+
+
+
 
 • Add - adds new components
 • Edit - edit existing components
